@@ -6,7 +6,8 @@
 <p>My main focus is web development</p>
 
 <h3>💓</h3>
-<img styles="border: 1px solid #ccc;border-radius: 100%" width="80" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
+<img src="https://img.shields.io/badge/main_skill-javascript-blue?logo=javascript" width="130px">
+<img src="https://img.shields.io/badge/fav_framework-react-blue?logo=react" width="130px">
 
 - 🔭 I’m currently working on my school degree
 - 🌱 I’m currently learning Java
