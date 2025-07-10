@@ -1,5 +1,9 @@
-<h1> Hi there 👋 my name is Brian </h1>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" />
+<h1>Hi there, this is Brian</h1>
+<h2>
+  On my way to be a software engineer
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" />
+</h2>
+
 
 <p>I love programming, making software solutions.</p>
 <p>My main focus is web development</p>
