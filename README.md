@@ -11,3 +11,5 @@
 
 - 🔭 I’m currently working on my school degree
 - 🌱 I’m currently learning Java
+
+![This is what GitHub says about me](https://github-readme-stats.vercel.app/api?username=mbrianp05)
