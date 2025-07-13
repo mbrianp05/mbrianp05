@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!🕹️This%20is%20Brian&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!🕹️This%20is%20Brian&animation=fadeIn&type=waving&color=gradient&height=100&theme=tokyonight"/>
 </p>
 
 <div style="display: flex">
@@ -19,5 +19,6 @@
   <br><br>
 </strong>
 
+
 ![This is what GitHub says about me](https://github-readme-stats.vercel.app/api?username=mbrianp05&theme=tokyonight&hide_border=true&bg_color=#00000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrianp05&layout=donut&theme=tokyonight&hide_border=true&bg_color=#00000)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrianp05&layout=pie&theme=tokyonight&hide_border=true&bg_color=#00000)](https://github.com/anuraghazra/github-readme-stats)
