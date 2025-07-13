@@ -20,4 +20,4 @@
 </strong>
 
 ![This is what GitHub says about me](https://github-readme-stats.vercel.app/api?username=mbrianp05&theme=tokyonight&hide_border=true&bg_color=#00000)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrianp05&layout=donut&theme=tokyonight&hide_border=true&bg_color=#00000)](https://github.com/anuraghazra/github-readme-stats)
