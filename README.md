@@ -18,5 +18,5 @@
   <br><br>
 </strong>
 
-![This is what GitHub says about me](https://github-readme-stats.vercel.app/api?username=mbrianp05&theme=monokai)
+![This is what GitHub says about me](https://github-readme-stats.vercel.app/api?username=mbrianp05&theme=tokyonight&hide_border=true&bg_color=#00000)
 
