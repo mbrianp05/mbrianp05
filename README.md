@@ -19,6 +19,5 @@
   <br><br>
 </strong>
 
-
-![This is what GitHub says about me](https://github-readme-stats.vercel.app/api?username=mbrianp05&theme=tokyonight&hide_border=true&bg_color=#00000)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrianp05&layout=pie&theme=tokyonight&hide_border=true&bg_color=#00000)](https://github.com/anuraghazra/github-readme-stats)
+![This is what GitHub says about me](https://github-readme-stats.vercel.app/api?username=mbrianp05&theme=tokyonight&hide_border=true&bg_color=#00000)
